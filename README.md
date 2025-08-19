@@ -1,6 +1,6 @@
 ```mindthemaps
                                      +======================================================+
-                                     |  HỆ THỐNG CẢNH BÁO TRẺ EM BỊ BỎ QUÊN TRÊN XE HƠI      |
+                                     |  HỆ THỐNG CẢNH BÁO TRẺ EM BỊ BỎ QUÊN TRÊN XE HƠI     |
                                      +======================================================+
                                                       |
                       ---------------------------------------------------------------------------------------------------------------------
@@ -10,11 +10,11 @@
                       |                          |                                |                              |                        |
  ----------------------------------    ---------------------------------    ---------------------------     -------------------      -----------------------
  |                                |    |                               |    |                         |     |                 |     |                       |
- | - Thực trạng tại VN            |    | - Hệ thống cảm biến           |    | - Xử lý trung tâm       |     | - Cảnh báo      |     | +  MATLAB / Simulink  |
- | - Tai nạn đã ghi nhận          |    |  + Trọng lượng ghế            |    | + Arduino / ESP32       |     | + Âm thanh      |     | + Node-RED + MQTT     |
- | - Nguyên nhân phổ biến         |    |  + PIR (chuyển động)          |    | + Raspberry Pi          |     | + Tin nhắn SMS  |     | + Tinkercad / Proteus |
- | - Hậu quả nghiêm trọng         |    |  + Nhiệt độ, CO2              |    | + Xử lý ảnh (OpenCV)    |     | + Mobile App    |     | + Wokwi               |
- | - Nhu cầu giải pháp cấp bách   |    |  + Camera AI                  |    ---------------------------     -------------------     -------------------------
+ | - Thực trạng tại VN            |    | - Hệ thống cảm biến           |    | - Xử lý trung tâm       |     | - Cảnh báo      |     | + Wokwi               |
+ | - Tai nạn đã ghi nhận          |    |  + Trọng lượng ghế            |    | + ESP32 S3              |     | + Âm thanh      |     | + Node-RED + MQTT     |
+ | - Nguyên nhân phổ biến         |    |  + PIR (chuyển động)          |    | + Onion Omega 2+        |     | + Tin nhắn SMS  |     | + Tinkercad / Proteus |
+ | - Hậu quả nghiêm trọng         |    |  + Nhiệt độ, CO2              |    | + Xử lý ảnh (OpenCV)    |     | + Mobile App    |     -------------------------
+ | - Nhu cầu giải pháp cấp bách   |    |  + Camera AI                  |    ---------------------------     -------------------     
  ----------------------------------    |                               |    
                                        |                               |    
                                         -------------------------------    
