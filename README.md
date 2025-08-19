@@ -1,7 +1,7 @@
 # Hệ thống kiểm tra - thông báo trẻ em bị bỏ quên trên xe ôtô
 ## Giả lập
 - sử dụng nền tảng công cụ giả lập trước khi triển khai thực tế:
-  + Wokwi
+  + [Wokwi](https://wokwi.com/projects/439611244632673281)
   + NodeRED
 ## Thành phần yêu cầu:
 - Các thành phần yêu cầu cơ bản trong hệ thống:
