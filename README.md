@@ -1,3 +1,21 @@
+# Hệ thống kiểm tra - thông báo trẻ em bị bỏ quên trên xe ôtô
+## Giả lập
+- sử dụng nền tảng công cụ giả lập trước khi triển khai thực tế:
+  + Wokwi
+  + NodeRED
+## Thành phần yêu cầu:
+- Các thành phần yêu cầu cơ bản trong hệ thống:
+  + ESP32 S3 (1 Cái)
+  + DHT22 (1 Cái)
+  + Cảm biến PIR (2 Cái)
+  + Cảm biến MPU6050 (1 Cái)
+  + Cảm biến thời gian thực DS1307 - RTC (1 Cái)
+  + Buzzer Cảnh Báo 5V (1 Cái)
+  + LED Cảnh báo (3 Cái, Khác Màu)
+  + Trở 1KΩ (3 Cái)
+  + Momentary (2 Cái)
+  + SSD1306 I2C (1 Cái)
+## Mindmap
 ```mindthemaps
                                      +======================================================+
                                      |  HỆ THỐNG CẢNH BÁO TRẺ EM BỊ BỎ QUÊN TRÊN XE HƠI     |
