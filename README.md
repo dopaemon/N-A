@@ -1,4 +1,4 @@
-# Hệ thống kiểm tra - thông báo trẻ em bị bỏ quên trên xe ôtô
+# Hệ thống kiểm tra - cảnh báo trẻ em bị bỏ quên trên xe ôtô
 ## Giả lập
 - sử dụng nền tảng công cụ giả lập trước khi triển khai thực tế:
   + [Wokwi](https://wokwi.com/projects/439611244632673281)
@@ -15,6 +15,8 @@
   + Trở 1KΩ (3 Cái)
   + Momentary (2 Cái)
   + SSD1306 I2C (1 Cái)
+## Setup
+![image](https://raw.githubusercontent.com/dopaemon/N-A/refs/heads/master/Screenshot%202025-08-19%20162357.png)
 ## Mindmap
 ```mindthemaps
                                      +======================================================+
